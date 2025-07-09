@@ -28,7 +28,7 @@ Most films are rated **R** and **PG-13**, with **Drama** and **Comedy** being th
 ---
 
 ### 🍅 Q2: What % of films received a Certified Fresh Tomatometer rating? What about Rotten?
-
+![Q2 Visual](https://github.com/muhammed-saheer/CS-5_Movie-Ratings-Analysis-python-/blob/main/images/Critic%20Rating%20Summary.png)
 📊 **Visuals**:  
 - Pie chart showing Certified Fresh vs Rotten distribution  
 - KPI cards for total Certified Fresh and Rotten films
@@ -39,7 +39,7 @@ A significant portion of films are **Certified Fresh**, but many also fall into 
 ---
 
 ### 🗓️ Q3: How has the volume of new film releases trended over time?
-
+![Q2 Visual](https://github.com/muhammed-saheer/CS-5_Movie-Ratings-Analysis-python-/blob/main/images/Release%20Trends.png)
 📊 **Visuals**:  
 - Line chart showing monthly/yearly film release count  
 - Year slicer for interactive filtering
@@ -50,7 +50,7 @@ Film releases have generally increased over time, with clear spikes in certain y
 ---
 
 ### 🏢 Q4: Which studios produce the highest and lowest rated films (Tomatometer average)?
-
+![Q2 Visual](https://github.com/muhammed-saheer/CS-5_Movie-Ratings-Analysis-python-/blob/main/images/Studio%20Performance.png)
 📊 **Visuals**:  
 - Bar chart for Top 10 Studios by average Tomatometer Rating  
 - Bar chart for Bottom 10 Studios by average Tomatometer Rating
@@ -61,7 +61,7 @@ Top studios maintain high average critic ratings, while some lesser-known or low
 ---
 
 ### 🎭 Q5: Which films showed the biggest gap between audience ratings and Tomatometer?
-
+![Q2 Visual](https://github.com/muhammed-saheer/CS-5_Movie-Ratings-Analysis-python-/blob/main/images/Critic%20vs%20Audience.png)
 📊 **Visuals**:  
 - Scatter plot comparing Tomatometer vs Audience ratings  
 - Table showing movies with the highest rating gap
@@ -72,7 +72,7 @@ Some films are **loved by audiences** but **panned by critics**, and vice versa 
 ---
 
 ### 📝 Q6: What language is most often used in critic consensus reviews?
-
+![Q2 Visual](https://github.com/muhammed-saheer/CS-5_Movie-Ratings-Analysis-python-/blob/main/images/Consensus%20Keywords.png)
 📊 **Visuals**:  
 - Word cloud of critic consensus terms
 
